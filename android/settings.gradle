@@ -1,0 +1,3 @@
+rootProject.name = 'JustACatApp'
+
+include ':app'
